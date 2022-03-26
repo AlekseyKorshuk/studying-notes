@@ -3,6 +3,7 @@
 ## Notes
 
 Here are my notes for Operating Systems course: [link](./notes.md).
+
 And also useful pdf: [link](./notes.pdf).
 
 For detailed knowledge without reading a book I recommend you to read notes by [Michał Piotrowski](https://github.com/chlebik): [link](https://github.com/chlebik/ModernOperatingSystems_AndrewTanenbaum).
