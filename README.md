@@ -1,1 +1,1 @@
-# notes
+# Studying Notes
