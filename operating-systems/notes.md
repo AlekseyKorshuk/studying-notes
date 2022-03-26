@@ -1,4 +1,4 @@
-# Short
+# Operating Systems Notes
 
 # What is OS?
 
