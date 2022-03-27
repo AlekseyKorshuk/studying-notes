@@ -20,3 +20,9 @@ Comming soon...
 ### Datasets
 
 
+
+# About
+
+These are my and not my notes. You can here add yours with pull request and I can mark you as an author.
+
+Stay tuned during your learning journey!
